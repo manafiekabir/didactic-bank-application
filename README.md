@@ -53,3 +53,4 @@ Execute the `bank.Bank` class, which contains the `main` method. It starts the a
   * [Modulo 3b - Sistema Bancario 2](https://youtu.be/wqgIMFyc9RI) - demonstration of how to run the bank application
 
 *Observation*: This application has been used within the *INF01120 - Programming Construction Techniques* course at the Informatics Institute of UFRGS. Students are required to understand and evolve its code. Classes taught before students are given this assignment: object-oriented programming, basic UML (class and sequence diagrams), and code coventions and best practices. The students already know (from previous courses) procedural programming (in C) and data structures.
+
